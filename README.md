@@ -1,6 +1,6 @@
 # Le Wagon Introduction to Web Development Workshop
 
-This branch contains the skeleton otherwise know as a code template that will be used to build your first product landing page.
+This branch contains the skeleton otherwise known as a code template that will be used to build your first product landing page.
 
 ## index.html
 
