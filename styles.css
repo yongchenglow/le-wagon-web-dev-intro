@@ -1,0 +1,25 @@
+body {
+    font-family: Overpass;
+    color: #404042;
+    font-size: 18px;
+}
+  
+h1, h2, h3 {
+    color: #404042;
+    font-family: Chivo;
+}
+
+.btn-blue {
+    background-color: #1A48E3;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.footer {
+    background: #404042;
+    color: white;
+    padding: 10px 0px;
+}
+  
