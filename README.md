@@ -1,17 +1,15 @@
 # Le Wagon Introduction to Web Development Workshop
 
-This branch contains the skeleton otherwise known as a code template that will be used to build your first product landing page.
+This branch contains most of the content for the website. This is the second part of the Introductory workshop. The following are the changes that are made
 
 ## index.html
 
-This file contains all the different web elements of your webpage, this should be the main file that you are editing.
-
-Please fill in or edit the relevant portion according to the instructions given to you during the class.
+Added the link to the Google fonts. Added image path to the img element.
 
 ## styles.css
 
-This file contains all your CSS elements giving your webpage some kind of styles.
+Added CSS to make the website look a lot nicer.
 
 ## images
 
-This folder contains all your images, a sample image of background.jpg can be found inside for your reference.
+Added 3 more images for the different products that we want to showcase.
